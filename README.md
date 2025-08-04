@@ -86,8 +86,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vivek-PawarCG&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-PawarCG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+
 </div>
 
 ---
