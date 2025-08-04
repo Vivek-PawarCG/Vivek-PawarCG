@@ -21,11 +21,11 @@
     <tr>
       <td width="50%">
         <h3>🛠️ What I Do</h3>
-        <p>I'm a dedicated Full Stack Developer and DevOps Engineer with a passion for crafting innovative, scalable solutions. My expertise spans modern web development, intuitive UI/UX design, and robust DevOps practices—including CI/CD automation, cloud infrastructure, and performance optimization. I focus on writing clean, maintainable code and building systems that are both user-friendly and resilient.</p>
+        <p>I'm a dedicated Full Stack Developer and DevOps Engineer with a passion for crafting innovative, scalable solutions. My expertise spans modern web development, intuitive UI/UX design, and robust DevOps practices including CI/CD automation, cloud infrastructure, and performance optimization. I focus on writing clean, maintainable code and building systems that are both user-friendly and resilient.</p>
       </td>
       <td width="50%">
         <h3>🎯 My Mission</h3>
-        <p>As a Senior Analyst and Software Engineer, I specialize in building scalable, AI-powered applications that solve real-world problems. I bring a strong foundation in DevOps practices—automating deployments, optimizing CI/CD pipelines, and ensuring system reliability at scale. I’m passionate about open-source contributions, continuous learning, and collaborating on innovative projects that make a meaningful impact.</p>
+        <p>As a Senior Analyst and Software Engineer, I specialize in building scalable, AI-powered applications that solve real-world problems. I bring a strong foundation in DevOps practices automating deployments, optimizing CI/CD pipelines, and ensuring system reliability at scale. I’m passionate about open-source contributions, continuous learning, and collaborating on innovative projects that make a meaningful impact.</p>
       </td>
     </tr>
   </table>
