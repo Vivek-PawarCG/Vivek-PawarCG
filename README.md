@@ -99,19 +99,10 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-PawarCG&theme=radical&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 📊 Project Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek-PawarCG&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek-PawarCG&theme=radical" alt="Most Commit Language" />
 
 </div>
 
