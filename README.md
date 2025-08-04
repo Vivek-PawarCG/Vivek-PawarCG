@@ -14,7 +14,7 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek-PawarCG&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-PawarCG&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 <br>
 
