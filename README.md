@@ -4,8 +4,6 @@
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=Vivek-PawarCG&style=flat-square&color=00FF00" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Vivek-PawarCG?label=Followers&style=social&color=00FF00" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Vivek-PawarCG?label=Stars&style=social&color=00FF00" alt="GitHub Stars" />
   </div>
 </div>
 
@@ -23,11 +21,11 @@
     <tr>
       <td width="50%">
         <h3>🛠️ What I Do</h3>
-        <p>I'm a passionate Full Stack Developer who loves creating innovative solutions. My expertise spans across web development, UI Designs and DevOps Tools. I believe in writing clean, efficient code that makes a difference.</p>
+        <p>I'm a dedicated Full Stack Developer and DevOps Engineer with a passion for crafting innovative, scalable solutions. My expertise spans modern web development, intuitive UI/UX design, and robust DevOps practices—including CI/CD automation, cloud infrastructure, and performance optimization. I focus on writing clean, maintainable code and building systems that are both user-friendly and resilient.</p>
       </td>
       <td width="50%">
         <h3>🎯 My Mission</h3>
-        <p>To build scalable applications that solve real-world problems using AI while contributing to the open-source community. I'm always eager to learn new technologies and collaborate on exciting projects.</p>
+        <p>As a Senior Analyst and Software Engineer, I specialize in building scalable, AI-powered applications that solve real-world problems. I bring a strong foundation in DevOps practices—automating deployments, optimizing CI/CD pipelines, and ensuring system reliability at scale. I’m passionate about open-source contributions, continuous learning, and collaborating on innovative projects that make a meaningful impact.</p>
       </td>
     </tr>
   </table>
@@ -52,7 +50,7 @@
     </tr>
     <tr>
       <td><strong>Tools:</strong></td>
-      <td>AWS, Azure, Git, Docker, VS Code, Postman, Figma</td>
+      <td>AWS, Azure DevOps, Kubernetes, Docker, VS Code, Postman, Figma</td>
     </tr>
   </table>
 </div>
@@ -75,6 +73,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-124B76?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
